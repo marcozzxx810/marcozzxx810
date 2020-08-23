@@ -1,4 +1,4 @@
-### Hi there, I'm Marco Mak - aka [marcozzxx810] 👋
+### Hi there, I'm Marco Mak - aka marcozzxx810 👋
 
 [![Website](https://img.shields.io/website?down_message=offline&label=marco-mak.com&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.marco-mak.com%2F)](https://www.marco-mak.com/)
 
