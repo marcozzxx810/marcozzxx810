@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_message=offline&label=marco-mak.com&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.marco-mak.com%2F)](https://www.marco-mak.com/)
 
-### I'm a Student, Gamer and Software developer.
+### I'm a AI Engineer, Gamer and Software developer.
 
 - 🌱 I’m currently learning **Node.js, React, Software infrastructure**
 
