@@ -1,7 +1,7 @@
 ### Hi there, I'm Marco Mak - aka marcozzxx810 👋
 
 [![Website](https://img.shields.io/website?down_message=offline&label=marco-mak.com&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.marco-mak.com%2F)](https://www.marco-mak.com/)
-[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.marco-mak.com/)
+[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-mak/)
 
 ### I'm a AI Engineer, Gamer and Software developer.
 
