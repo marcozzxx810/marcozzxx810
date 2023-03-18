@@ -1,4 +1,4 @@
-![I am Marco Mak, an AI Developer and VR Enthusiast](https://github.com/marcozzxx810/marcozzxx810/raw/master/terminal.gif)
+![I am Marco Mak, an AI Developer and VR Enthusiast](https://github.com/marcozzxx810/marcozzxx810/raw/master/terminal_2.gif)
 
 ### Hi there, I'm Marco Mak - aka marcozzxx810 👋
 
