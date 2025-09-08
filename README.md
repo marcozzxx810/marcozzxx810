@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <b>Incoming Master’s student at Peking University</b>
+  <b>Master’s student at Peking University</b>
   <i>Advised by Prof. Shanghang Zhang</i> <br>
   ex - AI Developer @ Intact Lab
 </p>
